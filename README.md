@@ -41,13 +41,13 @@
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
 			<td align="center"><a href="https://getbootstrap.com/">Bootstrap</a></td>
 			<td align="center"><a href="https://git-scm.com/">Git</a></td>
-			<td align="center"></td>
+			<td align="center"><a href="https://fr.wikipedia.org/wiki/MySQL">MySQL</a></td>
 			<td align="center"></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Linear_programming">Linear programming</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://fr.wikipedia.org/wiki/Pharo">Pharo</a></td>
-			<td align="center"></td>
+			<td align="center"><a href="https://www.rust-lang.org/">Rust</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
